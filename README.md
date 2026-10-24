@@ -19,8 +19,8 @@ npm start
 
 ## When to use the package
 
-- A consumer needs the following capability: Safe condition evaluation for x12i — thin CEL wrapper with a stable Condix API.
-- A Condix integration needs to reuse the capabilities of @x12i/condix inside a larger application.
+- Evaluate a CEL condition against an explicit input object.
+- Compile a recurring condition once and reuse it for several records.
 
 ## Links
 
