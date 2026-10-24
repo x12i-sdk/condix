@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/condix",
+  "packageVersion": "1.0.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/condix",
+  "usageRepository": "https://github.com/x12i-sdk/condix",
+  "sourceRepository": "https://github.com/x12i/condix",
+  "sourceCommit": "136d95655572d4cffab91e3b3b8c97cc930df460",
+  "sourcePackageDirectory": ".",
+  "example": {
+    "title": "Evaluate and reuse a condition",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T13:01:10.775977+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "bcd295675d3b50e330cda0e63dffe743c0f45464cc04e25b792523cb9201b33f",
+    "manifestSha256": "00a5173123b55557444e36ae7b1325d7819e6b9973522d93135c07879001060b"
+  },
+  "npmPackages": [
+    "@x12i/condix"
+  ],
+  "publisher": "x12i-publisher[bot]"
+}
